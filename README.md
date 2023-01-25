@@ -2,7 +2,7 @@
 
 As I am a fan of Minecraft, I wanted to make my own texture pack, so, everyone get ready for **Casscraft**... my name is Cass, by the way...
 
-For the game to see this texture pack, place it in the `/texturepacks/` folder, making sure it is zipped. If you download this on GitHub, you can assure that the game will see this pack as it will be correctly zipped.
+For the game to see this texture pack, place it in the `/texturepacks/` folder, ensuring it is zipped. If you download this on GitHub (or a mirror), you will need to extract the ZIP, go one file up so you're in `/pc-gamer-demo-main/` and re-ZIP it once more and finally place the new ZIP in the pre-mentioned `/texturepacks/` folder so it will work.
 
 This pack has been made only for the [PC Gamer Demo](https://minecraft.fandom.com/wiki/PC_Gamer_Demo) version of the game.
 
