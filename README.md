@@ -40,7 +40,7 @@ The pack is [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 Once the timer is at an end, a pop-up will appear telling the player to buy the game, it also shows what other people have made. For Casscraft, these have been changed. In total, there are nine screenshots used:
 
-> `screens1.png`
+> screens1.png
 
 Image one (`2022-01-22_07.13.40.png`): Shows players in [mc.neozones.club](https://mc.neozones.club).
 
@@ -48,7 +48,7 @@ Image two (`2022-07-23_04.14.00.png`): Show a player, also in [mc.neozones.club]
 
 Image three (`2022-09-20_08.21.57.png`): Shows Cass standing next to the Pendragon egg, taken in [Cass' 1.0 Minecraft World](https://github.com/DynTylluan/mcworld1_0).
 
-> `screens2.png`
+> screens2.png
 
 Image one (`2022-07-11_20.07.55.png`): Shows a player on the [transcraft Minecraft Server](https://transcraft.xyz).
 
@@ -56,7 +56,7 @@ Image two (`2022-09-05_07.19.07.png`): Shows a cat lying on a bed.
 
 Image three (`2023-01-03_05.09.21.png`): Is of a build made by Cass and [act](https://github.com/act17).
 
-> `screens3.png`
+> screens3.png
 
 Image one (`2022-10-27_06.27.43.png`): Is of a single-player world by Cass.
 
