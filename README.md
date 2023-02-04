@@ -1,4 +1,4 @@
-# Casscraft ⚘
+# Casscraft PC Gamer Demo Version ⚘
 
 As I am a fan of Minecraft, I wanted to make my own texture pack, so, everyone get ready for **Casscraft**... my name is Cass, by the way...
 
@@ -13,6 +13,12 @@ Did you know that in [June 2011 there was a demo for the game bundled with an is
 As Minecraft would update more and more, this demo would be mostly forgotten, but it is still fun to play as a time capsule of what Minecraft was like in 2011.
 
 YouTuber bugmancx, who [has a series where they explore Minecraft's history by "upgrading through (almost!) every version of the game!"](https://www.youtube.com/playlist?list=PL0qwyBj5XSpZG35qFvy2Z9VbezZ1t4cGt), made a [good video about this demo](https://www.youtube.com/watch?v=yea7LtOB4JI) that is worth watching.
+
+## Additional Setup
+
+In this version of Minecraft, if you use the fancy graphics in the video settings option, you will find that the trees will look weird - we're aware of this, and that's why you need to go into the Casscraft folder, delete `terrain.png`, rename `terrain_fast.png` to `terrain.png`, and then re-ZIP the whole thing.
+
+Everything should all be the same, but the only difference now is that the leaves won't be weird and let you see past blocks, almost like an x-ray texture pack.
 
 ## Assets Used
 
@@ -110,3 +116,5 @@ Most of the asset was made by Cass Python, but uses [`Arecibo message tiny.png`]
 In this version of the game, you would have played as Steave, regardless of whether you bought a legit copy of Minecraft back in the day, so Casscraft changes the file `char.png` so that you're playing as Efe, one of the current default skins in the game - why Efe? Well, I simply like the way they look over the other default skins, simple as.
 
 If you want to replace this skin with a new one, you will need to edit this texture, replacing it with your own. Be warned, if you do use another skin, make sure it is 64 by 32 pixels and not 64 by 64 or else it will look strange in-game.
+
+If you want to be able to play as Steve, all you need to do is just delete this file, then re-ZIP up the Classcraft folder and you should be all good.
