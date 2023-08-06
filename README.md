@@ -113,7 +113,7 @@ Most of the asset was made by Cass Python, but uses [`Arecibo message tiny.png`]
 
 **char.png**
 
-In this version of the game, you would have played as Steave, regardless of whether you bought a legit copy of Minecraft back in the day, so Casscraft changes the file `char.png` so that you're playing as Efe, one of the current default skins in the game - why Efe? Well, I simply like the way they look over the other default skins, simple as.
+In this version of the game, you would have played as Steve, regardless of whether you bought a legit copy of Minecraft back in the day, so Casscraft changes the file `char.png` so that you're playing as Efe, one of the current default skins in the game - why Efe? Well, I simply like the way they look over the other default skins, simple as.
 
 If you want to replace this skin with a new one, you will need to edit this texture, replacing it with your own. Be warned, if you do use another skin, make sure it is 64 by 32 pixels and not 64 by 64 or else it will look strange in-game.
 
